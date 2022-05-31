@@ -28,8 +28,8 @@ $(".btn").click(function handler(){
     playSound(userChosenColour);
     animatePress(userChosenColour);
     checkAnswer(x);
-    console.log(userClickedPattern);
-    console.log(gamePattern);
+//     console.log(userClickedPattern);
+//     console.log(gamePattern);
     x++;
 
     }
